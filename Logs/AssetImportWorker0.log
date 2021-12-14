@@ -140,3 +140,20 @@ Received Import Request.
 Start importing Assets/New Terrain.asset using Guid(c26a854ea7a7dcc4c99144d042e5d1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e6d7b1292832a4e2030be18de73adc') in 0.107965 seconds 
   Import took 0.159795 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 276.609895 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(c26a854ea7a7dcc4c99144d042e5d1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(c26a854ea7a7dcc4c99144d042e5d1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8f24b8addefd87299e686271ee9b65') in 0.044385 seconds 
+  Import took 0.052635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 407.164092 seconds.
+  path: Assets/New Terrain.asset
+  artifactKey: Guid(c26a854ea7a7dcc4c99144d042e5d1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/New Terrain.asset using Guid(c26a854ea7a7dcc4c99144d042e5d1a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e2ed029a2024c003dd9d84550473ea1') in 0.013919 seconds 
+  Import took 0.025831 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
