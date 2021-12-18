@@ -2,17 +2,22 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+[RequireComponent(typeof(PlayerMotor))]
 public class PlayerController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    [SerializeField]
+    private float speed;
+
+    private PlayerMotor motor;
+
+    private void Start()
     {
-        
+        motor = GetComponent<PlayerMotor>();
     }
 
-    // Update is called once per frame
-    void Update()
+    private void Update()
     {
-        
+        float xMov = Input.GetAxisRaw("Horizontal");
+        float zMov = Input.GetAxisRaw("Vertical");
     }
 }
