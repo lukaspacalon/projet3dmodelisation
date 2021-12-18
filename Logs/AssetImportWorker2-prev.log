@@ -294,3 +294,12 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 409.459519 seconds.
+  path: Assets/Prefabs/Player.prefab
+  artifactKey: Guid(15966a4b648a3e0409f6a92c377fcaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Prefabs/Player.prefab using Guid(15966a4b648a3e0409f6a92c377fcaee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a087d37e82f7d4db787bc9815edd3d29') in 0.118701 seconds 
+  Import took 0.129716 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
